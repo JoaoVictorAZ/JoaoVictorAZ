@@ -2,7 +2,6 @@
 - 🔭 Atualmente estudando Ciência da Computação na UFRRJ
 - 🌱 Estudando C e Python
 - 📫 E-mail para contato jvazevedomendonca@gmail.com
-- 😄 Pronome ele/dele
 <div>
   <a href="https://github.com/JoaoVictorAZ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
