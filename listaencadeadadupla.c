@@ -83,6 +83,5 @@ void main(){
     
     lista2 = lista2_retira(lista2,"50");
     Lista2_exibe(lista2);
-    return 0;
-    
+    return 0;  
 }
