@@ -14,7 +14,7 @@ Lista2* lista2_cria(){
     return NULL;
 }
 
-// função de inserção de elemento
+//função de inserção de elemento
 Lista2* lista2_insere (Lista2* lista2, int valor){
     Lista2* novo = (Lista2*) malloc(sizeof(Lista2));
     novo->info = valor;
@@ -27,7 +27,7 @@ Lista2* lista2_insere (Lista2* lista2, int valor){
     return novo;
 }
 
-// função de busca do elemento para verificar a localização e existência do mesmo
+//função de busca do elemento para verificar a localização e existência do mesmo
 Lista2* lista2_busca (Lista2* lista2, int valor){
     Lista2* p;
     for (p=lista2; p!=NULL; p=p->prox){
@@ -37,6 +37,7 @@ Lista2* lista2_busca (Lista2* lista2, int valor){
     return NULL;}
     }
    
+//Função para exibir a lista 
 void Lista2_exibe(Lista2* lista2){
     Lista2* p;
     for(p=lista2; p!= NULL; p=p->prox){
@@ -48,18 +49,18 @@ void Lista2_exibe(Lista2* lista2){
 Lista2* lista2_retira (Lista2* lista2, int valor){
     Lista2* p = lista2_busca(lista2,valor);
 
-    // se não achar o elemento ele retorna a lista normalmente e retira o elemento da lista
+    //se não achar o elemento ele retorna a lista normalmente e retira o elemento da lista
     if (p == NULL){
         return lista2;}
 
-    // realiza o teste para verificar se o elemento procurado está no início
+    //realiza o teste para verificar se o elemento procurado está no início
     if (lista2 == p){ 
       lista2 = p->prox;}
 
     else{
         p->ant->prox = p->prox;}
     
-    // realiza o teste para verificar se o último elemento é o procurado
+    //realiza o teste para verificar se o último elemento é o procurado
     if (p->prox != NULL) {  
        p->prox->ant = p->ant;}
 
