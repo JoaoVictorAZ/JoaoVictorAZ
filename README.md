@@ -12,7 +12,7 @@
   <img align="center" alt="Python logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C logo" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
   <img align="center" alt="CSS logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
-  <img align="center" alt="HTML logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
+  <img align="center" alt="HTML logo" height="70" width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
   <img align="center" alt="JavaScript logo" height"85" width="100" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.png"/>
 </div>
   
