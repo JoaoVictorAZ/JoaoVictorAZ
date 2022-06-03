@@ -2,7 +2,7 @@
 - 🔭 Atualmente estudando Ciência da Computação na UFRRJ
 - 🌱 Estudando C e  Java pela faculdade porém com experiência pessoal em Python, HTML, CSS e JavaScript
 - 📫 E-mail para contato jvazevedomendonca@gmail.com
-<div>
+<div align="center">
   <a href="https://github.com/JoaoVictorAZ">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAZ&layout=compact&langs_count=16&theme=github_dark"/>
