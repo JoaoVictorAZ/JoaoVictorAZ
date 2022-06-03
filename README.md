@@ -1,6 +1,6 @@
 ## Olá, Eu sou o João Victor e este é o meu perfil!
 - 🔭 Atualmente estudando Ciência da Computação na UFRRJ
-- 🌱 Estudando C e  Java pela faculdade porém com experiência pessoal em Python, CSS, HTML e JavaScript
+- 🌱 Estudando C e  Java pela faculdade porém com experiência pessoal em Python, HTML, CSS e JavaScript
 - 📫 E-mail para contato jvazevedomendonca@gmail.com
 <div>
   <a href="https://github.com/JoaoVictorAZ">
@@ -11,9 +11,9 @@
 <div style="display: inline_block">
   <img align="center" alt="Python logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C logo" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img align="center" alt="CSS logo" height="50" width="100" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg"/>
-  <img align="center" alt="HTML logo" height="50" width="100" src="[[https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg](https://cdn-icons-png.flaticon.com/512/1051/1051277.png?w=826)](https://cdn-icons-png.flaticon.com/512/174/174854.png?w=360)"/>
-  <img align="center" alt="JavaScript logo" height"50" width="100" src="https://marcas-logos.net/wp-content/uploads/2020/11/JavaScript-logo.png"/>
+  <img align="center" alt="HTML logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
   ##
