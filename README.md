@@ -1,7 +1,8 @@
 ## Olá, Eu sou o João Victor e este é o meu perfil!
 - 🔭 Atualmente estudando Ciência da Computação na UFRRJ
 - 🌱 Estudando C e  Java pela faculdade porém com experiência pessoal em Python, HTML, CSS e JavaScript
-- 📫 E-mail para contato jvazevedomendonca@gmail.com
+- 📫 E-mail para contato: jvazevedomendonca@gmail.com
+- ☑️ Linkedin para contato: https://www.linkedin.com/in/jo%C3%A3ovictorazevedomendon%C3%A7a/
 <div align="center">
   <a href="https://github.com/JoaoVictorAZ">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
