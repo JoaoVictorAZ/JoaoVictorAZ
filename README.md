@@ -1,5 +1,5 @@
 ## Olá, Eu sou o João Victor e este é o meu perfil!
-- 🔭 Atualmente estudando Ciência da Computação na UFRRJ
+- 🔭 Atualmente estudando Ciência da Computação na UFRRJ e trabalhando como estagiário na Área de Tecnologia da Ipiranga
 - 🌱 Estudando C e  Java pela faculdade porém com experiência pessoal em Python, HTML, CSS e JavaScript
 - 📫 E-mail para contato: jvazevedomendonca@gmail.com
 - ☑️ Linkedin para contato: https://www.linkedin.com/in/jo%C3%A3ovictorazevedomendon%C3%A7a/
