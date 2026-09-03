@@ -1,36 +1,78 @@
-## Olá, Eu sou o João Victor e este é o meu perfil!
-- 🔭 Atualmente estudando Ciência da Computação na UFRRJ
-- 🌱 Estudando C e  Java pela faculdade porém com experiência pessoal em Python, HTML, CSS e JavaScript
-- 📫 E-mail para contato: jvazevedomendonca@gmail.com
-- ☑️ Linkedin para contato: https://www.linkedin.com/in/jo%C3%A3ovictorazevedomendon%C3%A7a/
+# Joao Victor Azevedo
+
 <div align="center">
-  <a href="https://github.com/JoaoVictorAZ">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAZ&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAZ&layout=compact&langs_count=16&theme=github_dark"/>
-</div>
-  
-<div style="display: inline_block">
-  <img align="center" alt="Python logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="C logo" height="50" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-  <img align="center" alt="HTML logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js logo" height="50" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
-  
-  ##
-  
- <div>
-  <a href = "mailto:jvazevedomendonca@gmail.com">
-     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
-  </a>
- <a href="https://www.linkedin.com/in/jo%C3%A3ovictorazevedomendon%C3%A7a/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=darkblue" target="_blank">
- </a> 
- 
-  ![Snake animation](https://github.com/JoaoVictorAZ/JoaoVictorAZ/blob/output/github-contribution-grid-snake.svg)
- 
+  <h3>Project Operations, Data Analysis, and AI-Driven Development</h3>
+  <p>
+    Business graduate with a strong technical foundation in Computer Science,
+    building bridges between operations, data, and intelligent product execution.
+  </p>
 </div>
 
-  
-  
-  
+---
+
+## About Me
+
+I work at the intersection of management, operations, and technology, with hands-on experience in:
+
+- data cleaning, standardization, and normalization
+- dashboard creation and KPI tracking
+- process improvement and operational efficiency
+- AI-assisted Spec-Driven Development workflows
+- technical analysis using Python, Pandas, Power BI, and Power Query
+
+My background combines business vision with technical execution, which helps me translate complex needs into structured processes, measurable outcomes, and scalable solutions.
+
+## What I Do
+
+- Turn scattered data into reliable, decision-ready information
+- Build dashboards and reports that support strategic visibility
+- Improve workflows and operational routines through process analysis
+- Support projects with a practical mix of business context and technical problem-solving
+- Apply AI tools such as GPT and Claude to accelerate structured development and documentation workflows
+
+## Tech & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,c" />
+</p>
+
+<p>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
+  <img alt="Power Query" src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+## Current Focus
+
+- Data analysis and reporting for business and operations
+- Process improvement with measurable impact
+- AI-enhanced development and documentation workflows
+- Technical growth in Computer Science and data-driven solutions
+
+## Background
+
+- Business Administration graduate
+- Postgraduate specialization in Data Science & Analytics
+- Computer Science undergraduate
+- Experience in project and operations support across LatAm environments
+
+## Connect With Me
+
+<p>
+  <a href="mailto:jvazevedomendonca@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+  </a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3ovictorazevedomendon%C3%A7a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+## GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/JoaoVictorAZ">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAZ&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAZ&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+  </a>
+</div>
