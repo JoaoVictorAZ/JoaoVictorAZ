@@ -67,12 +67,3 @@ My background combines business vision with technical execution, which helps me 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
-## GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/JoaoVictorAZ">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorAZ&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorAZ&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-  </a>
-</div>
